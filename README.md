@@ -1,4 +1,4 @@
-# Sadaf's Portfolio
+# Portfolio
 
 
 ## [Vivendo Food Claims Case Study](https://github.com/SadafTariq/VivendoFoodClaims)
