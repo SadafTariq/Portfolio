@@ -18,7 +18,7 @@ This is an Interim project I did during Generation UK&I Bootcamp, where I analys
 
 - Data is taken from AdventureWorksCycles database
 - Utilise SQL, Python, and data analytics skills to uncover key learnings from the dataset
-- utilized visualization skills to support findings and trends in the dataset
+- Utilized visualization skills to support findings and trends in the dataset
 - Created a presentation deck and clearly communicated analytical results
 - A report was generated to defend the analysis
 
