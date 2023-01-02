@@ -22,5 +22,5 @@ This is an Interim project I did during Generation UK&I Bootcamp, where I analys
 - Created a presentation deck and clearly communicated analytical results
 - A report was generated to defend the analysis
 
-## [Ireland Homelessness Data Analysis](https://sadaftariq.github.io/HomelessnessIreland/) <img src="Map5.png" alt="Map" width="90" height="90"/> <img src="icon.png" alt="icon" width="130" height="100"/>
+## [Ireland Homelessness Data Analysis](https://sadaftariq.github.io/HomelessnessIreland/) <img src="Map5.png" alt="Map" width="70" height="70"/> <img src="Icon.png" alt="icon" width="90" height="70"/>
 
