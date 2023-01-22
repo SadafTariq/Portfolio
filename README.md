@@ -22,6 +22,16 @@ This is an Interim project I did during Generation UK&I Bootcamp, where I analys
 - Created a presentation deck and clearly communicated analytical results
 - A report was generated to defend the analysis
 
+## [O-List e-commerce Dataset Analysis]( https://sadaftariq.github.io/Final_Project/)  <img src="AWC.png" alt="AdventureWorksCycle" width="150" height="50"/>
+
+This is an Interim project I did during Generation UK&I Bootcamp, where I analysed the database and answered several business problems
+
+- Data is taken from AdventureWorksCycles database
+- Utilise SQL, Python, and data analytics skills to uncover key learnings from the dataset
+- Utilized visualization skills to support findings and trends in the dataset
+- Created a presentation deck and clearly communicated analytical results
+- A report was generated to defend the analysis
+
 ## [Ireland Homelessness Data Analysis](https://sadaftariq.github.io/HomelessnessIreland/) <img src="Map5.png" alt="Map" width="70" height="70"/> 
 
 This is a Personal project I did to enhance my data anlyasis proficiency. Where I analysed the Ireland Homelessness data and created a report
