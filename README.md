@@ -9,7 +9,7 @@ This is a project I did for my DataCamp's Data Analyst (Associate) Certification
 - Utilized Excel and SQL for Data Validation and cleaning tasks before analysis
 - Used SQL for exploratory data analysis Used Python for visualizations
 - Successfully defended the analysis
-- A report is generated and published on datacamp's workspace
+- A report was generated and published on datacamp's workspace
 
 
 ## [AdventureWorksCycles Database analysis]( https://sadaftariq.github.io/Adventure-Works-Cycles/)  <img src="AWC.png" alt="AdventureWorksCycle" width="150" height="50"/>
