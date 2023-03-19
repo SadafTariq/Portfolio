@@ -6,9 +6,9 @@
 This is a project I did for my DataCamp's Data Analyst (Associate) Certification, where I answered a number of business questions
 
 - Data was taken from vivendo food claim dataset (the dataset was provided by datacamp)
-- Utilized Excel and SQL for Data Validation and cleaning tasks before analysis
-- Used SQL for exploratory data analysis Used Python for visualizations
-- Successfully defended the analysis
+- Utilized Excel and SQL for data validation and cleaning tasks before analysis
+- Used SQL for exploratory data analysis 
+- Used Python for visualizations and successfully defended the analysis
 - A report was generated and published on datacamp's workspace
 
 
